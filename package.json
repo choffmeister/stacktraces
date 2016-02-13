@@ -1,0 +1,12 @@
+{
+  "name": "stacktraces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stacktraces.js",
+  "dependencies": {
+    "bluebird": "3.3.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
